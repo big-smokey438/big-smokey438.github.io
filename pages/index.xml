@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pages on My New Hugo Site</title>
-    <link>http://localhost:1313/pages/</link>
-    <description>Recent content in Pages on My New Hugo Site</description>
+    <title>Pages on Smokey Blog</title>
+    <link>http://big-smokey438.github.io:1313/pages/</link>
+    <description>Recent content in Pages on Smokey Blog</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 23 Apr 2024 09:54:50 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://big-smokey438.github.io:1313/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://localhost:1313/pages/about/</link>
+      <link>http://big-smokey438.github.io:1313/pages/about/</link>
       <pubDate>Tue, 23 Apr 2024 09:54:50 -0400</pubDate>
-      <guid>http://localhost:1313/pages/about/</guid>
+      <guid>http://big-smokey438.github.io:1313/pages/about/</guid>
       <description>Hello World! I am an about page.</description>
     </item>
   </channel>
